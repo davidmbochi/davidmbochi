@@ -8,5 +8,6 @@
 
 </span>
 
+- [Subscriptions](https://about.gitlab.com/pricing/)
 </hr>
 
