@@ -13,4 +13,5 @@
 
 - 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
+- 🚴 &nbsp; <samp> passionate about cycling.</samp>
 ---
