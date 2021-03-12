@@ -8,6 +8,6 @@
 
 </span>
 
-[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)]
+![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)
 </hr>
 
