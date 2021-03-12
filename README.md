@@ -2,9 +2,22 @@
 
 <span>
   
-   <a href="https://www.linkedin.com/in/david-mbochi-1a1b92185/">
-  <button style="background-color: red; ">LINKEDIN</button>
-   </a>
+  
+  <button style="background-color: red; ">
+    <a href="https://www.linkedin.com/in/david-mbochi-1a1b92185/">
+      LINKEDIN
+    </a>
+  </button>
+   <button style="background-color: red; ">
+    <a href="https://www.linkedin.com/in/david-mbochi-1a1b92185/">
+      LINKEDIN
+    </a>
+  </button>
+   <button style="background-color: red; ">
+    <a href="https://www.linkedin.com/in/david-mbochi-1a1b92185/">
+      LINKEDIN
+    </a>
+  </button>
  
 
 
