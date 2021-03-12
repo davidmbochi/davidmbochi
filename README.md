@@ -3,7 +3,7 @@
 <span>
   
   
-  <button style="background-color: red; ">
+  <button style="background-color: red; margin-right: 20px; ">
     <a href="https://www.linkedin.com/in/david-mbochi-1a1b92185/">
       LINKEDIN
     </a>
