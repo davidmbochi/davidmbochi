@@ -2,8 +2,7 @@
 
 <span>
   <button>
-    LinkedIn
-    <a href=""></a>
+    <a href="">LinkedIn</a>
   </button>
 
 
