@@ -8,6 +8,6 @@
 
 </span>
 
-- [Subscriptions](https://about.gitlab.com/pricing/)
+[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)]
 </hr>
 
