@@ -7,7 +7,7 @@
 
 ## <samp>Hello World!</samp>
 
-<samp>I'm David Mbochi, a Kenyan citizen, currently I'm a Software Engineer, passionate about solving problems using technology and creating different solutions.</samp>
+<samp>I'm David Mbochi, a Kenyan citizen, currently I'm a Software Engineer and a technical author, passionate about solving problems using technology and creating different solutions.</samp>
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
