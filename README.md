@@ -1,4 +1,4 @@
-# <samp>David Mbochi</samp><img src="https://github.com/davidmbochi/assets/blob/main/mario_hello_big.gif" width="30px">
+# <samp>David Mbochi</samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/david-mbochi-1a1b92185/)](https://www.linkedin.com/in/david-mbochi-1a1b92185/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/njongembochi)](https://www.instagram.com/njongembochi)
