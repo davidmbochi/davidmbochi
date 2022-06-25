@@ -5,9 +5,9 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/Dave82068056)](https://twitter.com/Dave82068056)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:davidmbochi97@gmail.com)](mailto:davidmbochi97@gmail.com)
 
-## <samp>Hello World!</samp> <img src="https://github.com/davidmbochi/assets/blob/main/earth.gif" width="22px">
+## <samp>Hello World!</samp>
 
-<samp>I'm David Mbochi, a Kenyan citizen, currently I'm a Software Engineer <img src="https://github.com/davidmbochi/assets/blob/main/developer.gif" width="30px"> in Kenya, passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>I'm David Mbochi, a Kenyan citizen, currently I'm a Software Engineer  in Kenya, passionate about solving problems with technology and creating different solutions.</samp>
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
